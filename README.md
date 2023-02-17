@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://github.com/SBU-CE/CE079-Graph-Theory/blob/main/images/banner.png">	
 </p>
+
 ## Introduction
 
 Welcome to the Graph Theory course repository on GitHub! This repository is a central location for all the materials related to the course, including lecture notes, assignments, code samples, and other resources to help you learn the fundamental concepts of graph theory.
