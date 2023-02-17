@@ -23,5 +23,5 @@ We hope that this repository will be a valuable resource for you throughout the 
 * [Mohammad Reza Sadeghi](https://github.com/MRSadeghi78)
 * [Ehsan Sajadi](https://github.com/ehsansajadi)
 * [Kamyab Abedi](https://github.com/b4ym4k)
-* [Ghazaal Laghaee]{https://github.com/Ghazallghe}
+* [Ghazaal Laghaee](https://github.com/Ghazallghe)
 
