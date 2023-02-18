@@ -1,4 +1,6 @@
 - Kamyab Abedi [Learning](https://github.com/b4ym4k/Python)
 - Ali Lamei [Learning](https://github.com/AliLRS/Graph-Theory-Assignment1)
 - Hossein Safaei [Learning](https://github.com/Hossein-sfa/Graph-Theory-Python)
-
+- Hosna Bashirian [Learning](https://github.com/HosnaBashirian/GraphTheoryAssignment1)
+- MohammadJavad Safian [Learning](https://github.com/mjsafy/GraphTheory-Assignment-1)
+- Maryam Paydar [Learning](https://github.com/MariePaydar/Graph-Theory-Assignment1)
