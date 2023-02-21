@@ -24,6 +24,5 @@ We hope that this repository will be a valuable resource for you throughout the 
 * [Ehsan Sajadi](https://github.com/ehsansajadi)
 * [Kamyab Abedi](https://github.com/b4ym4k)
 * [Ghazaal Laghaee](https://github.com/Ghazallghe)
-- Kiarash Kowsari [Learning](https://github.com/kiarash6k/Python_Graph)
 
 
