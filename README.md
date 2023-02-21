@@ -24,5 +24,5 @@ We hope that this repository will be a valuable resource for you throughout the 
 * [Ehsan Sajadi](https://github.com/ehsansajadi)
 * [Kamyab Abedi](https://github.com/b4ym4k)
 * [Ghazaal Laghaee](https://github.com/Ghazallghe)
- Parsa Fadaei Khedmat [Learning](https://github.com/ParsaFadaei/CE079-Graph-Theory)
+- Parsa Fadaei Khedmat [Learning](https://github.com/ParsaFadaei/Kaggle-Python)
 
