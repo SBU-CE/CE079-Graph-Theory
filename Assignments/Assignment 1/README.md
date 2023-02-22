@@ -8,3 +8,4 @@
 - Parsa Fadaei Khedmat [Learning]()
 - Rashin Rahnamoun [Learning](https://github.com/RRah1401/kaggle-python)
 - Erfan Rafiei Oskouei [Learning](https://github.com/3RFUNn/Kaggle-Python.git)
+- Mohammad Saleh Mirzaei [Learning](https://github.com/mosaleh4/kaggle-python.git)
