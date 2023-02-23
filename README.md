@@ -25,4 +25,3 @@ We hope that this repository will be a valuable resource for you throughout the 
 * [Kamyab Abedi](https://github.com/b4ym4k)
 * [Ghazaal Laghaee](https://github.com/Ghazallghe)
 
-
