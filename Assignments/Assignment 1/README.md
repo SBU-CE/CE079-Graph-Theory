@@ -5,8 +5,17 @@
 - MohammadJavad Safian [Learning](https://github.com/mjsafy/GraphTheory-Assignment-1)
 - Maryam Paydar [Learning](https://github.com/MariePaydar/Graph-Theory-Assignment1)
 - MohammadHossein Moslman [Learning](https://github.com/mosalman1379/pythonExercise)
-- Parsa Fadaei Khedmat [Learning]()
+- Parsa Fadaei Khedmat [Learning](https://github.com/ParsaFadaei/Kaggle-Python)
 - Rashin Rahnamoun [Learning](https://github.com/RRah1401/kaggle-python)
 - Erfan Rafiei Oskouei [Learning](https://github.com/3RFUNn/Kaggle-Python.git)
+
+
 - Pouria Yazdani [Learning](https://github.com/PouriaYazdani/Graph_theory_course_SBU/tree/master) 
+
+
+
+
+- Mohammad Reza Eskini (98243006) [Learning](https://github.com/mreskini/python-course)
+
+- parmiss Yousefi [Learning](https://github.com/parmissud/Graph_Theory)
 
