@@ -8,6 +8,7 @@
 - Parsa Fadaei Khedmat [Learning](https://github.com/ParsaFadaei/Kaggle-Python)
 - Rashin Rahnamoun [Learning](https://github.com/RRah1401/kaggle-python)
 - Erfan Rafiei Oskouei [Learning](https://github.com/3RFUNn/Kaggle-Python.git)
+- Sadaf Aghili Nasab [Learning](https://github.com/lsadaf/python_course/tree/master/python_course)
 - Mujtaba Rezaie [Learning](https://github.com/MujtabaRezaie/Kaggle-Certificate)
 - Foad Rashidi [Learning](https://github.com/mfrashidi/graph-theory-first-assignment)
 - Amir Sepehr Abednini [Learning](https://github.com/amirabedinii/Graph-Theory-Assignment-One)
