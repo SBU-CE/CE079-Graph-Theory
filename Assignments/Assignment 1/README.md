@@ -8,6 +8,7 @@
 - Parsa Fadaei Khedmat [Learning](https://github.com/ParsaFadaei/Kaggle-Python)
 - Rashin Rahnamoun [Learning](https://github.com/RRah1401/kaggle-python)
 - Erfan Rafiei Oskouei [Learning](https://github.com/3RFUNn/Kaggle-Python.git)
+- Amirali Vakili [Learning](https://github.com/simbovk/Graph-Theory/tree/main/Desktop/Assignment-1)
 - Mohammad Saleh Mirzaei [Learning](https://github.com/mosaleh4/kaggle-python.git)
 - Mohammad Huseyn Amini [Learning](https://github.com/MohammadHuseyn/Graph-Theory-Assignment1.git)
 - Sadaf Aghili Nasab [Learning](https://github.com/lsadaf/python_course/tree/master/python_course)
@@ -21,3 +22,4 @@
 - Kiarash Kowsari [Learning](https://github.com/kiarash6k/Python_Graph)
 - Parsa Sedigh [Learning](https://github.com/ParsaSedigh/Graph-Theory-Assignment1)
 - Salar Jahanshiri [Learning](https://github.com/salarjahanshiri/python_for_network/tree/master/PY_CERTIFICATE)
+
